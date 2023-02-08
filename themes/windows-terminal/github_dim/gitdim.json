@@ -1,0 +1,23 @@
+{
+    "name": "GitHub Dim",
+    "background": "#1C2128",
+    "foreground": "#ADBAC7",
+    "black": "#22272E",
+    "blue": "#539BF5",
+    "cyan": "#B6E3FF",
+    "green": "#57AB5A",
+    "purple": "#986EE2",
+    "red": "#E5534B",
+    "white": "#ADBAC7",
+    "yellow": "#C69026",
+    "brightBlack": "#636E7B",
+    "brightBlue": "#539BF5",
+    "brightCyan": "#B6E3FF",
+    "brightGreen": "#57AB5A",
+    "brightPurple": "#986EE2",
+    "brightRed": "#E5534B",
+    "brightWhite": "#ADBAC7",
+    "brightYellow": "#C69026",
+    "cursorColor": "#ADBAC7",
+    "selectionBackground": "#2E4C77"
+}
